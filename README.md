@@ -15,5 +15,5 @@ However, as the algorithm's space complexity needs to be improved without much i
 
 Other thing I wanted to work on was the Test cases. The code needs to be checked for dealing with bulk values and I would like to add a test case for the same by creating a file with dummy file as input to consider the maximum input run-time.
 
-### I would like to be considered primarily for the platform team followed by Policy Team.
+### I would like to be considered primarily for the Platform team followed by Policy Team.
 
